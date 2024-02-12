@@ -1,0 +1,69 @@
+.bas{
+    font-size: xx-large;
+}
+
+.hisse1{
+    background-color: #F0FAFB;
+    text-align: center;
+    
+
+}
+.basliq1{
+    width: 25%;
+    text-align: center;
+    margin-left: 37%;
+    
+    
+}
+
+.box{
+    border: 1px solid F0FAFB ;
+    width: 25%;
+    height: 200px;
+    margin: 5%;
+}
+.dflex{
+    display: flex;
+    
+}
+.hisse2{
+    text-align: center;
+   
+    background-color: #F5F5F5;
+    
+   
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: auto;
+    
+}
+.boxs{
+    border: 1px solid #F5F5F5 ;
+    width: 20%;
+    height: 200px;
+    margin: 1%;
+    background-color: white;
+    
+    
+}
+.flex2{
+    display: flex;
+    margin-left: 15%;
+    
+   
+}
+.basliq{
+    font-size: xx-large;
+}
+.colour{
+    color: #1DB0A5;
+}
+.line{
+    background-color: #1DB0A5;
+    height: 3px;
+    width: 10%;
+    margin: auto;
+}
