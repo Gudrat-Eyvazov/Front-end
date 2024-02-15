@@ -1,0 +1,116 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+span {
+    color: rgb(153, 135, 111);
+
+}
+
+.my-button {
+    color: white;
+    background-color: rgb(153, 133, 95);
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 14px;
+    margin-top: 20px;
+
+
+}
+
+.my-button:hover {
+    background-color: rgb(72, 94, 94);
+}
+
+.title {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url(https://cdn.pixabay.com/photo/2023/09/30/17/30/ai-generated-8286112_1280.jpg);
+    background-size: cover;
+    
+
+}
+
+.left {
+    width: 50%;
+    text-align: left;
+    font-size: larger;
+    color: gainsboro;
+    margin-bottom: 5%;
+    margin-top: 3%;
+}
+
+.text1 {
+    font-size: 25px;
+    color: rgb(153, 135, 111);
+    margin: 1rem;
+}
+
+.sekil {
+    position: absolute;
+    top: 500px;
+    right: 70%;
+}
+
+.xett {
+    border-bottom: rgb(134, 116, 62) 1px solid;
+}
+
+
+
+.title2 {
+    background-color: #37373f;
+    padding-top: 10%;
+    height:500px ;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+padding: 0;
+    
+
+}
+
+.my-button2 {
+    padding: 10px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+.box {
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 1%;
+    
+}
+
+.logo {
+    font-size: 40px;
+background-color: gray;
+border-radius: 35px;
+padding: 5px;
+width: 50px;
+text-align: center;
+
+}
+.logotext {
+    padding-left: 20px;
+}
+h5 {
+    color:burlywood;
+
+}
+    .right{
+        margin-bottom: 5%;
+    margin-top: 3%;
+       
+        
+    }
+    button{
+        margin-top: 2%;
+    }
+  
