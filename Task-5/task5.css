@@ -1,0 +1,27 @@
+
+.nav1 li {
+    list-style-type: none;
+    margin-left: 1rem;
+}
+i{
+    padding: 5px;
+}
+.nav2 li{
+    margin-left: 3rem;
+}
+.carousel-item{
+    height: 500px;
+}
+.myc{
+    position: absolute;
+    top: 100px;
+    
+}
+.fsc{
+    font-size: 60px;
+    
+
+}
+.fsc1{
+    font-size: 30px;
+}
